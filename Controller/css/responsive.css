@@ -1,0 +1,127 @@
+@media (max-width:575.98px){
+    .navbar-brand img {
+    height: 20px;
+}
+    .navbar ul li{
+        text-align: center;
+    }
+    .navbar .container button i{
+        height: 40px;
+        width: 40px;
+        border: 1px solid #262626;
+        color: #262626;
+        border-radius: 50%;
+        line-height: 36px;
+        font-weight: 600;
+        font-size: 20px;
+        transition: 0.5s;
+    }
+    .navbar .container button i:hover{
+        background: #262626;
+        color: #fff;
+    }
+    #banner .wrapper {
+    width: 100%;
+    height: auto;
+}
+    #banner h1{
+        margin-top: 0;
+        font-size: 20px;
+    }
+    h1.header{
+        font-size: 35px;
+        margin-bottom: 25px;
+    }
+    #about-us .container .row .about-details h2{
+        text-align: center;
+        font-size: 25px;
+    }
+    #about-us .container .row .about-details p{
+        width: auto;
+        text-align: center;
+        font-size: 14px;
+    }
+    #about-us .container .row .about-details a{
+        margin-left: 50px;
+        font-size: 15px;
+    }
+    #banner{
+        margin-bottom: 50px;
+    }
+    #about-us .container .row .about-details{
+        padding: 0;
+    }
+    #about-us{
+        margin-bottom: 50px;
+    }
+    #service .container .row .service-item .content h4{
+        font-size: 18px;
+    }
+    #service .container .row .service-item .content p{
+        font-size: 14px;
+    }
+    #service{
+        margin-bottom: 50px;
+    }
+    #portfolio{
+        margin-bottom: 50px;
+    }
+    #portfolio .portfolio-item .container .row .x .details h3{
+        font-size: 18px;
+    }
+    #portfolio .portfolio-item .container .row .x .details p{
+        font-size: 14px;
+    }
+    #client h3{
+        font-size: 25px;
+    }
+    #client .container .client-info i{
+        font-size: 40px;
+        height: 80px;
+        width: 80px;
+        line-height: 80px;
+    }
+    #client .container .client-info p{
+        font-size: 14px;
+        margin: 10px 0;
+    }
+    #client .container .client-info h4{
+        margin-bottom: 5px;
+        font-size: 20px;
+    }
+    #client .container .client-info h5{
+        font-size: 16px;
+    }
+    #client{
+        margin-bottom: 50px;
+    }
+    #contact h3{
+        font-size: 25px;
+    }
+    #contact .container .row button{
+        padding: 10px 48px;
+    }
+    #contact{
+        margin-bottom: 50px;
+    }
+    #footer .container .row .info p{
+        text-align: center;
+        font-size: 14px;
+    }
+    #footer .container .row ul{
+        width: auto;
+    }
+    #footer .container .row ul li {
+    width: 35px;
+    height: 35px;
+    border: 1px solid #fff;
+    margin: 0 5px;
+}
+    #footer .container .row ul li i {
+    font-size: 20px;
+    line-height: 33px;
+}
+    .copyright p{
+        font-size: 14px;
+    }
+}
